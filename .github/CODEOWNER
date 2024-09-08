@@ -1,0 +1,6 @@
+"""
+from pyrogram import filters, Client
+
+@amiraikb.on_message()
+  async def ()
+       print("@amiraikb")
